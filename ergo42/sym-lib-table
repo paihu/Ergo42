@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ergo42")(type "Legacy")(uri "${KIPRJMOD}/ergo42.lib")(options "")(descr ""))
+)
