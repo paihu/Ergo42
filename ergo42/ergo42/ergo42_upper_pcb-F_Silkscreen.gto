@@ -1,0 +1,24 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*
+G04 #@! TF.CreationDate,2025-03-26T17:32:02+09:00*
+G04 #@! TF.ProjectId,ergo42_upper_pcb,6572676f-3432-45f7-9570-7065725f7063,1.0.0-alpha*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Legend,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-03-26 17:32:02*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,4.800000*%
+G04 APERTURE END LIST*
+%LPC*%
+D10*
+X132080000Y-102235000D03*
+X189230000Y-83185000D03*
+X189230000Y-121285000D03*
+X93980000Y-83185000D03*
+X93980000Y-121285000D03*
+%LPD*%
+M02*
